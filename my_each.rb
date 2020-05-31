@@ -22,28 +22,6 @@ end
 #during each step of the while loop, counter equals a given index number of our array. The first loop will be 1, the second will be 2, etc. 
  #the [ ] is used to grab the value of each successive index element as we proceed through the while loop, yielding each to a block.
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#  i = 0 
-#  
-#  while i < array.length
-#    i = i + 1 
-#    yield array[i]
-#  end  
-#  
-#  array
-#end  
-  
-
 
  
    

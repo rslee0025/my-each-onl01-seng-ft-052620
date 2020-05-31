@@ -17,6 +17,7 @@
     yield array[counter]
     counter += 1 
   end
+  return array
 end  
   
 #during each step of the while loop, counter equals a given index number of our array. The first loop will be 1, the second will be 2, etc. 

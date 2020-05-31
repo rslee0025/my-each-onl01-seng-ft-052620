@@ -9,7 +9,8 @@ end
  
 
  
- 
+ def my_each(array)
+   
  
  
 
